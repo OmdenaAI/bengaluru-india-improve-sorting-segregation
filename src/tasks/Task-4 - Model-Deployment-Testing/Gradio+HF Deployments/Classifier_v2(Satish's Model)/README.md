@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-**Check out the App Here**------------> https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V2
+- [**LINK FOR THE APP: Classifier_v2**](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V2)
