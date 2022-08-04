@@ -1,5 +1,5 @@
 ---
-title: Garbage-Classifier
+title: Garbage-Classifier-Kaggle Nb
 emoji: 🗑 ♻️ 🚮
 colorFrom: blue
 colorTo: yellow
