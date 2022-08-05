@@ -1,5 +1,5 @@
 ---
-title: Garbage-Classifier-Kaggle Nb
+title: Garbage-Classifier-XceptionNet
 emoji: 🗑 ♻️ 🚮
 colorFrom: blue
 colorTo: yellow
