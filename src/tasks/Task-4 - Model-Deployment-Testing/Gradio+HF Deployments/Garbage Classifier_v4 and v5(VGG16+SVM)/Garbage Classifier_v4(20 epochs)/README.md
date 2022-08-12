@@ -1,5 +1,5 @@
 ---
-title: Gc V4
+title: Garbage Classifer v4
 emoji: 🐠
 colorFrom: yellow
 colorTo: yellow
