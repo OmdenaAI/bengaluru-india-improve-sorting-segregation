@@ -10,4 +10,4 @@ pinned: false
 python_version: 3.7.6
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the App here : [Garbage Classifier V5](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V5)
