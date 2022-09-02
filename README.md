@@ -1,5 +1,14 @@
-# Omdena Bengaluru India- Improve Sorting and Segregation of Waste
-- Sorting and Segregation of Wastes
+# Omdena Bengaluru India-Improve Sorting and Segregation of Waste
+- **Sorting and Segregation of Waste Using Computer Vision**
+
+
+![ss](https://github.com/OmdenaAI/bengaluru-india-improve-sorting-segregation/blob/main/Final%20App%20SS.png)
+
+- The main purpose of the project is to improve the current waste segregation techniques that are being used using Computer Vision techniques which shall help in cost cutting and help in reaching the UN SDG.
+
+## Final App Demo
+
+- You can check out the Final App Here 👉🏻: [Garbage Classifier V4](https://huggingface.co/spaces/Dinoking/Garbage-Classifier-V4)
 
 
 
