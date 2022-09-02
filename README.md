@@ -1,8 +1,6 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+# Omdena Bengaluru India- Improve Sorting and Segregation of Waste
+- Sorting and Segregation of Wastes
 
-
-# [Chapter Challenge Name]
 
 
 ## Contribution Guidelines
