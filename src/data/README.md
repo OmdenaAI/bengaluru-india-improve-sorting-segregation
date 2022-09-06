@@ -6,6 +6,5 @@
 - **STEP 2  :Further as Models were being made and tested it with,Garbage Classification (12 classes) was finalised to work with**.
 
 - **STEP 3 : Further Images were added and classes were reduced to create a final Dataset for the model from Garbage Classification (12 classes)**
-
-Link for the Final Modified Dataset : [**Garbage Seg 10 V5**](https://www.kaggle.com/datasets/alexfordna/garbage-seg-10-v5)
+## Link for the Final Modified Dataset : [**Garbage Seg 10 V5**](https://www.kaggle.com/datasets/alexfordna/garbage-seg-10-v5)
 
