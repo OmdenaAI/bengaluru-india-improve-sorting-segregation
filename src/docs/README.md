@@ -1,5 +1,6 @@
 # Docs
-## This Folder Contains the resource docs for each of the tasks:
+### This Folder Contains the Problem Statment,Final Presentation,Resource Docs
+####  The Resource Docs are for each of the tasks:
 - Task 1: **Data Collection and Preprocessing**
 - Task 2: **Data Preparation**
 - Task 3: **Model Building**
