@@ -9,6 +9,21 @@
 
 - **Each Folder Contains the Models made by all the contributors and also contains the final model file that can be used for deployment**
 
+## SUMMARY OF TASK 3
+
+### **Aim** :
+ - To create various models for the finalised dataset using various computer vision algorithms  and finally find a proper model for real world usage. 
+
+### **Work Done** :
+- Initially 4 various datasets were made to be tested so around 10 different architectures and algorithms were tested on each of them.
+- Through continuous meetings top 5 models based on testing accuracies were carried forward to the Task 4 team  for further  deployment.
+- Subsequent debugging and code were optimised for easy deployment.
+- All the models tested were recorded with their computational time and accuracy.
+
+### **Challenges Faced** :
+- Due to the high no.of algorithms present in working it was a time consuming task to create around 10 models for each of the 4 datasets.
+- Newer algorithms like VGG16 were modified by prior references from blogposts and research papers which took some time to get running.
+
 
 ## Model Performance Comparison
 
