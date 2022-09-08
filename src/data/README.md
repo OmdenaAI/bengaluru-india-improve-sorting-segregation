@@ -7,7 +7,7 @@
 
 - **STEP 3 : Further Images were added and classes were reduced to create a final Dataset for the model from Garbage Classification (12 classes)**
 ### Link for the Final Modified Dataset : [**Garbage Seg 10 V5**](https://www.kaggle.com/datasets/alexfordna/garbage-seg-10-v5)
-### Distribution of Images Class-Wise in the Final Dataset(Garbage Seg 10 V5):
+## Distribution of Images Class-Wise in the Final Dataset(Garbage Seg 10 V5):
 <img src="https://github.com/OmdenaAI/bengaluru-india-improve-sorting-segregation/blob/main/src/data/ss5.png"  width="450">
 
 ## Sample Images from the 10 Classes of the Final Modified Dataset : **Garbage Seg 10 V5**
