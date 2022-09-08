@@ -1,6 +1,6 @@
 # References
 
-## 1. Task 1 
+## 1. Task 1- Data Collection and Preprocessing
 ### **Datasets:**
 - [6 categories of waste segregation-TrashNet](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 - [2 classes: Recyclable and Organic Objects](https://www.kaggle.com/datasets/techsash/waste-classification-data/code?datasetId=233210&sortBy=voteCount)
@@ -11,7 +11,7 @@
 - [Trashnet-Stanford](http://cs230.stanford.edu/projects_spring_2020/reports/38847029.pdf)
 - [Waste Segregation Using Vision](https://www.researchgate.net/publication/325626219_RecycleNet_Intelligent_Waste_Sorting_Using_Deep_Neural_Networks)
 
-## 2. Task 2:
+## 2. Task 2- Data Preparation
 ### **Papers, Blog Posts, Playlists:**
 - [Advanced Waste Classification](https://towardsdatascience.com/advanced-waste-classification-with-machine-learning-6445bff1304)
 - [Data Prepatation Blog](https://www.geeksforgeeks.org/data-preprocessing-in-data-mining/)
@@ -24,7 +24,7 @@
 - [Pandas](https://pandas.pydata.org)
 
 
-## 3.Task 3:
+## 3.Task 3- Model Building
 ### **Papers Refered To:**
 #### Past Works:
 - [Computer Vision for Garbage Detection ](https://medium.com/ramudroid/computer-vision-for-garbage-detection-136029142b3c)
@@ -50,7 +50,7 @@
 - Libraries such as [Pytorch](https://pytorch.org) and [Tensorflow](https://www.tensorflow.org)
 - Python Datas Analysis Libraries such as [Matplotlib](https://matplotlib.org) ,[Seaborn](https://seaborn.pydata.org) ,[Numpy](https://numpy.org) etc.
 
-## 4. Task 4:
+## 4. Task 4- Model Deployment
 ### **Blogs, Websites and Playlists:**
 #### For Streamlit:-
 - [Streamlit Deployment Tutorail v1](https://www.analyticsvidhya.com/blog/2021/10/machine-learning-model-deployment-using-streamlit/)
