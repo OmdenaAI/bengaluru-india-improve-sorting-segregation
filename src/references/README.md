@@ -2,6 +2,12 @@
 
 ## 1. Task 1 
 **Datasets:**
+- [6 categories of waste segregation-TrashNet](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+- [2 classes: Recyclable and Organic Objects](https://www.kaggle.com/datasets/techsash/waste-classification-data/code?datasetId=233210&sortBy=voteCount)
+- [Taco Dataset - Open image dataset of waste in the wild](https://github.com/pedropro/TACO)
+
+
+
 
 **Papers and Blog Posts:**
 
